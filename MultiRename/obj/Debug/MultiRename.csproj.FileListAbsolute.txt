@@ -1,0 +1,15 @@
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\bin\Debug\tesseract.dll
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\bin\Debug\Form1.resx
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\bin\Debug\Form1.cs
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\bin\Debug\Form1.Designer.cs
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\bin\Debug\MultiRename.exe.config
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\bin\Debug\MultiRename.exe
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\bin\Debug\MultiRename.pdb
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\obj\Debug\MultiRename.csprojAssemblyReference.cache
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\obj\Debug\MultiRename.Form1.resources
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\obj\Debug\MultiRename.Properties.Resources.resources
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\obj\Debug\MultiRename.csproj.GenerateResource.cache
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\obj\Debug\MultiRename.csproj.CoreCompileInputs.cache
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\obj\Debug\MultiRename.csproj.CopyComplete
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\obj\Debug\MultiRename.exe
+D:\program\miscellaneous\好例子网_图片文字识别\图片文字识别\文字识别\MultiRename\obj\Debug\MultiRename.pdb
